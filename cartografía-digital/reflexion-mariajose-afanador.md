@@ -1,9 +1,7 @@
 ---
-titulo: Nombre el tema de indagación
-fecha: 2018-09-19
+titulo: NLP - CCELA
+fecha: 2022-03-12
 autor:
-- Fulanito de tal 
-etiquetas: incluya al menos tres palabras clave que describan su corpus
+- Andrés Rivera
+etiquetas: *corpus linguistics*, *annotation*, *word embbeding*, *Natural Language Processing*
 ---
-
-Copie y pegue el encabezado al comienzo de su texto de reflexión sobre el corpus de documentos. Haga clic en el botón de edición y copie el formato. 
